@@ -1,9 +1,3 @@
-Template Info:
-Template Name: Yummy
-Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
-
 Website Functionalities:
 1.Navbar: Takes you to the selected destination
 2.Home Page: Displays a brief introduction about the desserts , its menu,events,about us, testimonials and contact information. 
